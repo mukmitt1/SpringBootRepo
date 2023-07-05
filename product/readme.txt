@@ -1,4 +1,4 @@
-Spring Boot MVC pattern to support
+SpringBoot MVC pattern.
 
 
 1) Controller to redirect the call to another page.
